@@ -2,7 +2,7 @@
 
   <br>
 
-  <p align="center"> Trying to do better... </p>
+  <p align="center">Learning HTML, CSS, JavaScript</p>
 
 
 ## 🛠 &nbsp;Tech Stack
