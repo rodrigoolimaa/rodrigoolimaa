@@ -21,9 +21,6 @@
 <a href="https://instagram.com/rodrigoolimaa_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-rodrigoolimaa_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://twitter.com/Rdrigoolimaa" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Rdrigoolimaa-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://linkedin.com/in/rodrigoolimaa" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-rodrigoolimaa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
